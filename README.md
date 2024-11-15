@@ -32,7 +32,9 @@ portfolio-book-style/
 - **Clean and Minimal UI**: Focuses on content with a clean and modern design.
 
 ## 📸 Screenshots
-![Portfolio Book Style Preview](https://via.placeholder.com/800x400?text=Portfolio+Preview)
+
+![image](https://github.com/user-attachments/assets/28e2e43e-ab03-4675-a4d1-7ec303c0c7c0)
+
 
 ## 📋 Usage
 To run this project locally:
